@@ -33,4 +33,6 @@ I build high-performance full-stack web applications and robust, autonomous AI i
 ---
 
 ### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/zeeshan512](https://linkedin.com/in/zeeshan512)
+* **Upwork :** [Verified Freelancer Profile](https://www.upwork.com/freelancers/~01afb668d3e7eba10e)
 * **Email:** zdilawar@gmail.com
